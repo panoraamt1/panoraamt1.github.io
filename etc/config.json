@@ -1,0 +1,681 @@
+{
+  "initialSceneId": "Pano1",
+  "scenes": [
+    {
+      "id": "Pano1",
+      "title": "TalTech Virumaa kolledž",
+      "image": "panos/Pano1.jpg",
+      "preview": "panos/TalTech VK.jpg",
+      "doors": [
+        {
+          "sceneId": "Entrenc",
+          "location": {
+            "left": 2370,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "tee",
+          "location": {
+            "left": 1520,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "Sport",
+          "location": {
+            "left": 3150,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+      ]
+    },
+    {
+      "id": "Kr.1",
+      "title": "1. korrus",
+      "image": "panos/k1.jpg",
+      "preview": "panos/kr1p.jpg",
+      "doors": [
+        {
+          "sceneId": "Entrenc",
+          "location": {
+            "left": 60,
+            "top": 570
+          }
+        },
+        {
+          "sceneId": "Kr.2",
+          "location": {
+            "left": 2300,
+            "top": 540
+          }
+        }
+      ],
+      "hints": [ {
+        "description": "Esindusauditoorium",
+        "location": {
+          "left": 720,
+          "top": 500
+        }
+      }]
+    },
+    {
+      "id": "Entrenc",
+      "title": "Tere tulemast!",
+      "image": "panos/Entrenc.jpg",
+      "preview": "panos/Sisene.jpg",
+      "doors": [
+        {
+          "sceneId": "Pano1",
+          "location": {
+            "left": 4500,
+            "top": 590
+          }
+        },
+        {
+          "sceneId": "Kr.1",
+          "location": {
+            "left": 2660,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "TalTech Virumaa missioon on pakkuda paindlikku kõrgharidus-, ümber- ja täiendõpet lähtuvalt regiooni vajadustest ning panustada ettevõtete teadus-, arendus- ja innovatsioonitegevusse. TalTech Virumaa liikmeskond on ettevõtlik, motiveeritud ja koostööle orienteeritud. Tule virtuaalselt tutvuma kolledžiga! Rohkem infot õppimise kohta kolledži kodulehel: https://taltech.ee/virumaa",
+          "location": {
+            "left": 1870,
+            "top": 420
+          }
+        },
+        {
+          "description": "TalTech Virumaa kolledži kohvik",
+          "location": {
+            "left": 1520,
+            "top": 550
+          }
+        }
+      ]
+    },
+    {
+      "id": "tee",
+      "title": "Teed teiste hoonete juurde",
+      "image": "panos/tee.jpg",
+      "preview": "panos/Tee1.jpg",
+      "doors": [
+        {
+          "sceneId": "Pano1",
+          "location": {
+            "left": 3600,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "Pano2",
+          "location": {
+            "left": 1160,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "tee2",
+          "location": {
+            "left": 1860,
+            "top": 550
+          }
+        }
+      ],
+      "hints": []
+    },
+    {
+      "id": "Sport",
+      "title": "Spordiväljak",
+      "image": "panos/Sport.jpg",
+      "preview": "panos/Spplats.jpg",
+      "doors": [
+        {
+          "sceneId": "Pano1",
+          "location": {
+            "left": 350,
+            "top": 530
+          }
+        }
+      ],
+      "hints": []
+    },
+    {
+      "id": "Pano2",
+      "title": "Virumaa Hostel",
+      "image": "panos/Pano2.jpg",
+      "preview": "panos/Hostel2.jpg",
+      "doors": [
+        {
+          "sceneId": "tee",
+          "location": {
+            "left": 3400,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "Pano4",
+          "location": {
+            "left": 3200,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Virumaa Hostelis saavad majutust TalTech Virumaa Kolledži üliõpilased ning samas majas asub kolledži raamatukogu. Rohkem infot majutuse kohta kodulehel: https://www.virumaahostel.com/",
+          "location": {
+            "left": 1800,
+            "top": 450
+          }
+        }
+      ]
+    },
+    {
+      "id": "tee2",
+      "title": "Põlevkivi hoone",
+      "image": "panos/tee2.jpg",
+      "preview": "panos/Tee2PK.jpg",
+      "doors": [
+        {
+          "sceneId": "tee",
+          "location": {
+            "left": 40,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "Pano3",
+          "location": {
+            "left": 2100,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": " ViDRIK- aitab luua koostöös ettevõtetega vajalikke tänapäevaseid efektiivseid ja säästlikke lahendusi tehnika- ja IT-valdkonnas. Rohkem infot ViDRIK kohta kodulehel: https://vidrik.taltech.ee/?_ga=2.176264364.803053880.1639124664-208570898.1582145092",
+          "location": {
+            "left": 3200,
+            "top": 400
+          }
+        }
+      ]
+    },
+    {
+      "id": "Pano3",
+      "title": "Põlevkivi Kompetentsikeskus",
+      "image": "panos/Pano3.jpg",
+      "preview": "panos/Põlevkivi.jpg",
+      "doors": [
+        {
+          "sceneId": "tee2",
+          "location": {
+            "left": 100,
+            "top": 540
+          }
+        },
+        {
+          "sceneId": "Pano4",
+          "location": {
+            "left": 1200,
+            "top": 540
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "25. jaanuaril 2011 loodi labori baasil TalTech Virumaa kolledži struktuuriüksusena Põlevkivi Kompetentsikeskus. Põlevkivi kompetentsikeskus on Kohtla-Järvel asuv teadus- ja arenduskeskus peamiselt põlevkivi ning keemiavaldkonnas, aga ka teistes tehnika ja tehnoloogia valdkondades. Keskus pakub arendus- ja laboriteenuseid, intellektuaalomandi teenuseid ja üürilaboreid ning teostab valdkondlikku standardimist. Rohkem infot keskuse kohta aadressil: https://taltech.ee/polevkivi-kompetentsikeskus",
+          "location": {
+            "left": 1700,
+            "top": 190
+          }
+        }
+      ]
+    },
+    {
+      "id": "Pano4",
+      "title": "Põlevkivi hoone",
+      "image": "panos/Pano4.jpg",
+      "preview": "panos/Põlevkivi.jpg",
+      "doors": [
+        {
+          "sceneId": "Pano3",
+          "location": {
+            "left": 2760,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "Pano2",
+          "location": {
+            "left": 4200,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Vasakule jääb Virumaa hostel ",
+          "location": {
+            "left": 950,
+            "top": 500
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kr.2",
+      "title": "2. korrus",
+      "image": "panos/Kr.2.jpg",
+      "preview": "panos/trepid.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.1",
+          "location": {
+            "left": 100,
+            "top": 910
+          }
+        },
+        {
+          "sceneId": "Kr.3",
+          "location": {
+            "left": 4450,
+            "top": 340
+          }
+        },
+        {
+          "sceneId": "oppe",
+          "location": {
+            "left": 2630,
+            "top": 570
+          }
+        }
+      ],
+      "hints": []
+    },
+    {
+      "id": "Kr.3",
+      "title": "3. korrus",
+      "image": "panos/Kr.3.jpg",
+      "preview": "panos/trepid.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.2",
+          "location": {
+            "left": 40,
+            "top": 870
+          }
+        },
+        {
+          "sceneId": "Kr.4",
+          "location": {
+            "left": 4300,
+            "top": 400
+          }
+        },
+        {
+          "sceneId": "Kr.3 1",
+          "location": {
+            "left": 2600,
+            "top": 600
+          }
+        }
+      ],
+      "hints": []
+    },
+    {
+      "id": "Kr.4",
+      "title": "4. korrus",
+      "image": "panos/Kr.4.jpg",
+      "preview": "panos/trepid.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.3",
+          "location": {
+            "left": 40,
+            "top": 850
+          }
+        },
+        {
+          "sceneId": "40",
+          "location": {
+            "left": 2600,
+            "top": 590
+          }
+        }
+      ],
+      "hints": []
+    },
+    {
+      "id": "40",
+      "title": "Multimeedia õppejõud labor",
+      "image": "panos/40.jpg",
+      "preview": "panos/Labor 40.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.4",
+          "location": {
+            "left": 4460,
+            "top": 600
+          }
+        },
+        {
+          "sceneId": "Labor",
+          "location": {
+            "left": 2400,
+            "top": 560
+          }
+        },
+        {
+          "sceneId": "Entrenc",
+          "location": {
+            "left": 4200,
+            "top": 600
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 40- multimeedia labor pildi-, audio-, videotöötlemine, animatsiooni loomime, 3D modelleemine, multimeedia projektide koostamine. Igal töökohal on 2 monitori ja suure arvutusvõimsusega ning võimsa graafikakaardiga seadmed.",
+          "location": {
+            "left": 85,
+            "top": 500
+          }
+        },
+        {
+          "description": "Telemaatika ja arukate süsteemide töörühma lektorid",
+          "location": {
+            "left": 2580,
+            "top": 560
+          }
+        },
+        {
+          "description": "Ruum 42- arvutiklass",
+          "location": {
+            "left": 1320,
+            "top": 550
+          }
+        }
+      ]
+    },
+    {
+      "id": "Labor",
+      "title": "Labor 49 Box",
+      "image": "panos/Labor.jpg",
+      "preview": "panos/Prog ja arukad süst.jpg",
+      "doors": [
+        {
+          "sceneId": "40",
+          "location": {
+            "left": 4500,
+            "top": 590
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 49 - programmeerimise ja arukate süsteemide labor asjade interneti, robotite, küberfüüsikaliste süsteemide ning pilve- ja tarkvaratehnoloogiate uurimine, kasutamine, arendamine.",
+          "location": {
+            "left": 2220,
+            "top": 550
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kr.3 1",
+      "title": "Õpperuumid ja raamatud",
+      "image": "panos/Kr.3 1.jpg",
+      "preview": "panos/3audit.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.3",
+          "location": {
+            "left": 470,
+            "top": 570
+          }
+        },
+        {
+          "sceneId": "Kr.3 2",
+          "location": {
+            "left": 3300,
+            "top": 580
+          }
+        },
+        {
+          "sceneId": "Entrenc",
+          "location": {
+            "left": 200,
+            "top": 570
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 31- nõupidamisteruum, Ruumid 32-34- auditooriumid",
+          "location": {
+            "left": 2300,
+            "top": 590
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kr.3 2",
+      "title": "Õpperuumid ja raamatud",
+      "image": "panos/Kr.3 2.jpg",
+      "preview": "panos/Raamatud1.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.3 1",
+          "location": {
+            "left": 1300,
+            "top": 610
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Väike raamatukogu",
+          "location": {
+            "left": 100,
+            "top": 700
+          }
+        },
+        {
+          "description": "Auditooriumi ruumid",
+          "location": {
+            "left": 2000,
+            "top": 600
+          }
+        },
+        {
+          "description": "Ruum 38- Virumaa digi- ja rohetehnoloogiate innovatsioonikeskus. Digitaalse tootmise labor. Multimeedialabor.",
+          "location": {
+            "left": 3250,
+            "top": 500
+          }
+        }
+      ]
+    },
+    {
+      "id": "oppe",
+      "title": "Juhtkond ja laborite korpus",
+      "image": "panos/oppe.jpg",
+      "preview": "panos/Laborikorp.jpg",
+      "doors": [
+        {
+          "sceneId": "Kr.2",
+          "location": {
+            "left": 4450,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "kesk",
+          "location": {
+            "left": 2900,
+            "top": 580
+          }
+        },
+        {
+          "sceneId": "Entrenc",
+          "location": {
+            "left": 4200,
+            "top": 550
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 20- telemaatika ja arukad süsteemid lektorid",
+          "location": {
+            "left": 30,
+            "top":540
+          }
+        },
+        {
+          "description": "Ruum 21- juhtkond: direktor, õppedirektor, administratiivjuht",
+          "location": {
+            "left": 960,
+            "top": 487
+          }
+        },
+        {
+          "description": "Ruum 22- juhtkond",
+          "location": {
+            "left": 1180,
+            "top": 510
+          }
+        },
+        {
+          "description": "Ruum 23- õppetalitus",
+          "location": {
+            "left": 2350,
+            "top": 570
+          }
+        }
+      ]
+    },
+    {
+      "id": "kesk",
+      "title": "Õpperuumid",
+      "image": "panos/kesk.jpg",
+      "preview": "panos/Õppeklassid1.jpg",
+      "doors": [
+        {
+          "sceneId": "oppe",
+          "location": {
+            "left": 1400,
+            "top": 570
+          }
+        },
+        {
+          "sceneId": "25-26",
+          "location": {
+            "left": 3300,
+            "top": 570
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 24- arendusosakond",
+          "location": {
+            "left": 2700,
+            "top": 550
+          }
+        }
+      ]
+    },
+    {
+      "id": "25-26",
+      "title": "Laborid 25, 26, 27, 28",
+      "image": "panos/25-26.jpg",
+      "preview": "panos/Labor 26.jpg",
+      "doors": [
+        {
+          "sceneId": "kesk",
+          "location": {
+            "left": 930,
+            "top": 550
+          }
+        },
+        {
+          "sceneId": "27-28",
+          "location": {
+            "left": 4100,
+            "top": 580
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 25- telemaatika labor andmeedastuse, erinevate sidevõrkude uurimine, projekteerimine, arendamine. Laboris on selleks erinevad laborivahendid ja arvutid, kuhu on installeeritud seadmetega töötamiseks vajalikud programmid.",
+          "location": {
+            "left": 2300,
+            "top": 580
+          }
+        },
+        {
+          "description": "Ruum 26- tööstuslike juhtimisprotsesside labor, arvutiklass on sisustatud võimsate tööjaamadega, millel on võimalik luua mitmeid erineva vajadusega virtuaalmasinaid, et õppida võrguserverite ehitust ja serverite vahelist tööd.",
+          "location": {
+            "left": 2690,
+            "top": 580
+          }
+        }
+      ]
+    },
+    {
+      "id": "27-28",
+      "title": "27-28",
+      "image": "panos/27-28.jpg",
+      "preview": "panos/Labor 27.jpg",
+      "doors": [
+        {
+          "sceneId": "25-26",
+          "location": {
+            "left": 1080,
+            "top": 610
+          }
+        },
+        {
+          "sceneId": "oppe",
+          "location": {
+            "left": 400,
+            "top": 600
+          }
+        }
+      ],
+      "hints": [
+        {
+          "description": "Ruum 27- arvutigraafika labor, arvutiklass on mõeldud arvutigraafikaga tegelemiseks. Arvutid võimaldavad kasutada erinevaid modelleerimistarkvarasid (Solidworks, AutoCad, SketchUp jne).",
+          "location": {
+            "left": 2400,
+            "top": 600
+          }
+        },
+        {
+          "description": "Ruum 28- arvutiklass, programmeerimiskeeli ja –tehnoloogiate õppimiseks töökohad. Töökohal asub kõik-ühes arvuti (AllInOne) puutetundliku ekraaniga.",
+          "location": {
+            "left": 2930,
+            "top": 600
+          }
+        },
+        {
+          "description": "Siit trepist alla liikudes jõuab laborikorpuse korrusele.",
+          "location": {
+            "left": 3680,
+            "top": 640
+          }
+        }
+      ]
+    }
+  ]
+}
