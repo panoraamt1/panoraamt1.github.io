@@ -34,4 +34,4 @@ function getRoots() {
   return [path.resolve(__dirname)];
 }
 
-module.exports = config
+module.exports = config;
