@@ -1,5 +1,6 @@
 # panoraamt1.github.io
-
+laadi alla Node.js
+kood sisestatakse Visual Studio's
 **Install and run**
 In terminal:
 1.  npm install
